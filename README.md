@@ -2,6 +2,8 @@ Config Service Provider
 =======================
 
 [![Build Status](https://api.travis-ci.org/tomphp/config-service-provider.svg)](https://api.travis-ci.org/tomphp/config-service-provider)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/tomphp/config-service-provider/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/tomphp/config-service-provider/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/tomphp/config-service-provider/badges/build.png?b=master)](https://scrutinizer-ci.com/g/tomphp/config-service-provider/build-status/master)
 
 This package contains a simple service provider for the League Of Extraordinary
 Packages' [Container](https://github.com/thephpleague/container) package.
