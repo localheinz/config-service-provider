@@ -80,8 +80,6 @@ class ConfigServiceProvider extends ServiceProvider
     }
 
     /**
-     * @param string $prefix
-     *
      * @return array
      */
     private function getKeys(array $config)
