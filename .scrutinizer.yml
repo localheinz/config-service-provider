@@ -44,7 +44,7 @@ coding_style:
             before_parentheses:
                 closure_definition: true
             around_operators:
-                concatenation: false
+                concatenation: true
             ternary_operator:
                 in_short_version: true
         braces:
